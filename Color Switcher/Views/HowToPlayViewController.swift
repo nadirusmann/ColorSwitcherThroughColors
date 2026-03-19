@@ -4,7 +4,7 @@ final class HowToPlayViewController: UIViewController {
     
     private let titleLabel: UILabel = {
         let label = UILabel()
-        label.text = "How to Play"
+        label.text = "Play Game"
         label.font = UIFont.systemFont(ofSize: 28, weight: .bold)
         label.textColor = .white
         label.textAlignment = .center
