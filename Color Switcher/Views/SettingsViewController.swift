@@ -6,7 +6,7 @@ final class SettingsViewController: UIViewController {
     
     private let titleLabel: UILabel = {
         let label = UILabel()
-        label.text = "Settings"
+        label.text = "Setting"
         label.font = UIFont.systemFont(ofSize: 28, weight: .bold)
         label.textColor = .white
         label.textAlignment = .center
